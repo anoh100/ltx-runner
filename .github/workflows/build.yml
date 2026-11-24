@@ -35,5 +35,5 @@ jobs:
           context: .
           push: true
           tags: |
-            encurway/ltx-runner:latest
-            encurway/ltx-runner:${{ github.sha }}
+            ecnurway/ltx-runner:latest
+            ecnurway/ltx-runner:${{ github.sha }}
